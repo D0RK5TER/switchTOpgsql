@@ -24,6 +24,7 @@ npx dotenv sequelize db:migrate
 npx dotenv sequelize db:seed:all
 
 and now you are ready to use postman to test!
+!!!!!!!!!!MAKE SURE YOU ADD .env BACK INTO THE .gitignore FILE!!!!!!!!
 
 make sure to use a seperate environment for port 3000
 
