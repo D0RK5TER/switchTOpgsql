@@ -1,3 +1,6 @@
+NOTE FOR REACT!!!!! if you are using this for the frontend and backend, make sure you dont put backend on port 3000, react scripts (start) default to that port and they conflict
+
+
 STEPS TO COME LATER!# switchTOpgsql
 
 -clone your project in fresh copy
